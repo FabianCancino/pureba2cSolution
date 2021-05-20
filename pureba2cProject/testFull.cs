@@ -59,7 +59,7 @@ namespace ConsoleAppProject
         {
 
 
-            Console.WriteLine("CamBox system ");
+            Console.WriteLine("CamBox system  ");
             Console.WriteLine(" ");
             Console.WriteLine("Choose an option from the following list:");
             Console.WriteLine("\tp - Products");
