@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 namespace ConsoleAppProject
 {
     class Program
@@ -8,8 +8,6 @@ namespace ConsoleAppProject
             Console.WriteLine("bababoi");
             testFull test = new testFull();
             test.menu();
-
-
         }
     }
 }
